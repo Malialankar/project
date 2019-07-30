@@ -5,9 +5,10 @@ first project
 <body>
 this is my project
 </body>
-<style>
+<style>body{
 background-color:black;
 color:#fff;
-text-align:middle;
+text-align:center;
+}
 </style>
 </html>
